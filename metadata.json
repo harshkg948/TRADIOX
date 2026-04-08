@@ -1,0 +1,5 @@
+{
+  "name": "TRADIOX",
+  "description": "An AI-powered voice assistant trading platform that analyzes markets, manages portfolios, and guides new investors with personalized strategies.",
+  "requestFramePermissions": ["microphone"]
+}
